@@ -25,7 +25,7 @@ export default function Home() {
 	const scenes = [
 		{
 			id: 0,
-			title: "One Last Flitz",
+			title: "Flitz",
 			subtitle: "Dear Leila",
 			bg: "from-pink-100 via-purple-100 to-indigo-100",
 			content:
@@ -33,15 +33,15 @@ export default function Home() {
 		},
 		{
 			id: 1,
-			title: "One Last Flitz",
+			title: "Flitz",
 			subtitle: "",
 			bg: "from-rose-100 via-pink-100 to-purple-100",
 			content:
-				"I have one last flitz before it's not the same, and I want to flitz you! I knew when I met you that we would not only hit it off, but be much more than that. It makes me so happy to see where we are now.",
+				"I have Flitz before it's not the same, and I want to flitz you! I knew when I met you that we would not only hit it off, but be much more than that. It makes me so happy to see where we are now.",
 		},
 		{
 			id: 2,
-			title: "One Last Flitz",
+			title: "Flitz",
 			subtitle: "",
 			bg: "from-purple-100 via-indigo-100 to-blue-100",
 			content:
@@ -49,7 +49,7 @@ export default function Home() {
 		},
 		{
 			id: 3,
-			title: "One Last Flitz",
+			title: "Flitz",
 			subtitle: "",
 			bg: "from-blue-100 via-cyan-100 to-teal-100",
 			content:
@@ -57,7 +57,7 @@ export default function Home() {
 		},
 		{
 			id: 4,
-			title: "One Last Flitz",
+			title: "Flitz",
 			subtitle: "I love you",
 			bg: "from-red-100 via-pink-100 to-rose-100",
 			content:
