@@ -37,7 +37,7 @@ export default function Home() {
 			subtitle: "",
 			bg: "from-rose-100 via-pink-100 to-purple-100",
 			content:
-				"I have Flitz before it's not the same, and I want to flitz you! I knew when I met you that we would not only hit it off, but be much more than that. It makes me so happy to see where we are now.",
+				"I have flitzed you before, but it's not the same, and I want to flitz you one last time! I knew when I met you that we would not only hit it off, but be much more than that. It makes me so happy to see where we are now.",
 		},
 		{
 			id: 2,
