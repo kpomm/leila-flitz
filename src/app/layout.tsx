@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "💕 A Love Story - Your Special Flitz 💕",
+  title: "💕 Flitz 💕",
   description: "A romantic journey through our love story, created with love and magic for you.",
 };
 
